@@ -1,2 +1,1 @@
-HTML and CSS projects 
-
+# HTML / CSS project for a Tinder for Dogs
